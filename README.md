@@ -21,7 +21,6 @@ Este projeto é um aplicativo web simples para organizar sorteios de amigo secre
 ## Como Usar
 
 1.  Acesse o aplicativo web através do <a href="https://challenge-amigo-secreto-khaki-ten.vercel.app/" id="vercel-link">link do Vercel</a>.
-1.  Acesse o aplicativo web através do <a href="https://challenge-amigo-secreto-khaki-ten.vercel.app/" id="vercel-link">link do Vercel</a>.
 2.  Digite os nomes dos amigos no campo de entrada e clique em "Adicionar".
 3.  Clique em "Sortear amigo" para realizar o sorteio.
 4.  Os resultados do sorteio serão exibidos na lista de resultados.
