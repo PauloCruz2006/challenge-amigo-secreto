@@ -63,5 +63,3 @@ Este projeto está licenciado sob a [Licença MIT](LICENSE).
 * O arquivo `app.js` contém a lógica principal do aplicativo.
 * O arquivo `index.html` é a estrutura HTML da página.
 * O arquivo `README.md` é um arquivo de documentação que descreve o projeto.
-
-<script src="readme-script.js"></script>
