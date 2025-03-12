@@ -20,7 +20,7 @@ Este projeto é um aplicativo web simples para organizar sorteios de amigo secre
 
 ## Como Usar
 
-1.  Acesse o aplicativo web através do <a href="https://challenge-amigo-secreto-khaki-ten.vercel.app/" target="_blank">link do Vercel</a>.
+1.  Acesse o aplicativo web através do <a href="https://challenge-amigo-secreto-khaki-ten.vercel.app/" id="vercel-link">link do Vercel</a>.
 2.  Digite os nomes dos amigos no campo de entrada e clique em "Adicionar".
 3.  Clique em "Sortear amigo" para realizar o sorteio.
 4.  Os resultados do sorteio serão exibidos na lista de resultados.
@@ -33,6 +33,8 @@ Este projeto é um aplicativo web simples para organizar sorteios de amigo secre
 * `assets/`: Pasta contendo imagens e outros recursos.
 * `adicionandoNomes-ezgif.com-video-to-gif-converter.gif`: GIF demonstrando a adição de nomes.
 * `sorteandoNomes-ezgif.com-video-to-gif-converter.gif`: GIF demonstrando o sorteio.
+* `LICENSE`: Arquivo contendo a licença MIT.
+* `readme-script.js`: Arquivo JavaScript para adicionar `target="_blank"` ao link do Vercel.
 
 ## Tecnologias Utilizadas
 
@@ -61,3 +63,5 @@ Este projeto está licenciado sob a [Licença MIT](LICENSE).
 * O arquivo `app.js` contém a lógica principal do aplicativo.
 * O arquivo `index.html` é a estrutura HTML da página.
 * O arquivo `README.md` é um arquivo de documentação que descreve o projeto.
+
+<script src="readme-script.js"></script>
