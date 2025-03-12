@@ -34,7 +34,6 @@ Este projeto é um aplicativo web simples para organizar sorteios de amigo secre
 * `adicionandoNomes-ezgif.com-video-to-gif-converter.gif`: GIF demonstrando a adição de nomes.
 * `sorteandoNomes-ezgif.com-video-to-gif-converter.gif`: GIF demonstrando o sorteio.
 * `LICENSE`: Arquivo contendo a licença MIT.
-* `readme-script.js`: Arquivo JavaScript para adicionar `target="_blank"` ao link do Vercel.
 
 ## Tecnologias Utilizadas
 
